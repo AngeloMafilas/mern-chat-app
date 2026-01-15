@@ -17,7 +17,8 @@
 </div>
 
 A full-stack real-time chat application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) featuring Socket.io for real-time communication, JWT authentication, and modern UI with TailwindCSS and Daisy UI.
-
+## ✨ Live Url
+https://mern-chat-app-2-4v0p.onrender.com
 ---
 
 ## ✨ Features
@@ -410,13 +411,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](./frontend/public/screenshot-login.png)
-
-### Chat Interface
-![Chat Interface](./frontend/public/screenshot-for-readme.png)
-
-### User List
-![User List](./frontend/public/screenshot-sidebar.png)
+![Login Page](frontend/public/pic_for_vs.png)
 
 ---
 
